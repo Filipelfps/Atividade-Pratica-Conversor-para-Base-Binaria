@@ -5,14 +5,15 @@ Este projeto foi desenvolvido para a disciplina de Estrutura de Dados (IDP) e co
 
 Como aplicação prática, a estrutura de dados é utilizada como componente central de um sistema que converte números das bases **Decimal** e **Hexadecimal** para a base **Binária**.
 
+
 ---
 
 ## 👨‍💻 Integrantes do Grupo
 
-* [Nome Completo do Integrante 1]
-* [Nome Completo do Integrante 2]
-* [Nome Completo do Integrante 3]
-* [Nome Completo do Integrante 4]
+* Daniel Henrique Pontes
+* Leandro Filipe
+* Arthur Amorim Dias
+* Igor Magalhães
 
 ---
 
